@@ -1,9 +1,17 @@
-<h2 align="left">Hi 👋! My name is Emma and I'm a Software Engineering student at 42 Paris.</h2>
+<h2 align="left">Hi 👋! My name is Emma and I'm a Software Engineering student @ 42 Paris.</h2>
+
+###
+
 <ul>
   <li> 🔭 Currently working on a Webserver in C++</li>
   <li> 🌱 Passionate about Cybersecurity and aiming to work in this field!</li>
   <li> 😄 Pronouns: She/Her</li>
 </ul>
+
+---
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -12,6 +20,8 @@
   <img src="https://streak-stats.demolab.com?user=Cuteness-overload&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   
 </div>
+
+---
 
 ###
 
