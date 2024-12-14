@@ -3,7 +3,7 @@
 ###
 
 <ul>
-  <li> 🔭 Currently working on a Webserver in C++</li>
+  <li> 🔭 Let's learn some Assembly!</li>
   <li> 🌱 Passionate about Cybersecurity and aiming to work in this field!</li>
   <li> 😄 Pronouns: She/Her</li>
 </ul>
