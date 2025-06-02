@@ -3,7 +3,7 @@
 ###
 
 <ul>
-  <li> 🔭 Let's learn some Assembly!</li>
+  <li> 🔭 Let's learn some Rust!</li>
   <li> 🌱 Passionate about Cybersecurity and aiming to work in this field!</li>
   <li> 😄 Pronouns: She/Her</li>
 </ul>
